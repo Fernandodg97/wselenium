@@ -1,0 +1,569 @@
+wselenium) fernando@fernando-HP-255-G7-Notebook-PC:~/DAW 2/MP08 - PHP/wselenium$ python DescargarPajaroV6.py 
+////// --- Parte 1: Inicio --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+////// --- Clic en el botón 'Next' --- //////
+No se encontró el botón 'Next'
+////// --- Parte 1: Completa --- //////
+////// --- Parte 2: Inicio --- //////
+El archivo 'AquaticWarbler.jpg' ya existe, no se descargará.
+El archivo 'AquaticWarbler.mp3' ya existe, no se descargará.
+El archivo 'ArcticSkua.jpg' ya existe, no se descargará.
+El archivo 'ArcticSkua.mp3' ya existe, no se descargará.
+El archivo 'ArcticTern.jpg' ya existe, no se descargará.
+El archivo 'ArcticTern.mp3' ya existe, no se descargará.
+El archivo 'Avocet.jpg' ya existe, no se descargará.
+El archivo 'Avocet.mp3' ya existe, no se descargará.
+El archivo 'BalearicShearwater.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'BartailedGodwit.jpg' ya existe, no se descargará.
+El archivo 'BartailedGodwit.mp3' ya existe, no se descargará.
+El archivo 'BarnOwl.jpg' ya existe, no se descargará.
+El archivo 'BarnOwl.mp3' ya existe, no se descargará.
+El archivo 'BarnacleGoose.jpg' ya existe, no se descargará.
+El archivo 'BarnacleGoose.mp3' ya existe, no se descargará.
+El archivo 'BeardedTit.jpg' ya existe, no se descargará.
+El archivo 'BeardedTit.mp3' ya existe, no se descargará.
+El archivo 'BewicksSwan.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Bittern.jpg' ya existe, no se descargará.
+El archivo 'Bittern.mp3' ya existe, no se descargará.
+El archivo 'BlackGrouse.jpg' ya existe, no se descargará.
+El archivo 'BlackGrouse.mp3' ya existe, no se descargará.
+El archivo 'BlackGuillemot.jpg' ya existe, no se descargará.
+El archivo 'BlackGuillemot.mp3' ya existe, no se descargará.
+El archivo 'BlackRedstart.jpg' ya existe, no se descargará.
+El archivo 'BlackRedstart.mp3' ya existe, no se descargará.
+El archivo 'BlackTern.jpg' ya existe, no se descargará.
+El archivo 'BlackTern.mp3' ya existe, no se descargará.
+El archivo 'BlackheadedGull.jpg' ya existe, no se descargará.
+El archivo 'BlackheadedGull.mp3' ya existe, no se descargará.
+El archivo 'BlackneckedGrebe.jpg' ya existe, no se descargará.
+El archivo 'BlackneckedGrebe.mp3' ya existe, no se descargará.
+El archivo 'BlacktailedGodwit.jpg' ya existe, no se descargará.
+El archivo 'BlacktailedGodwit.mp3' ya existe, no se descargará.
+El archivo 'BlackthroatedDiver.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Blackbird.jpg' ya existe, no se descargará.
+El archivo 'Blackbird.mp3' ya existe, no se descargará.
+El archivo 'Blackcap.jpg' ya existe, no se descargará.
+El archivo 'Blackcap.mp3' ya existe, no se descargará.
+El archivo 'BlueTit.jpg' ya existe, no se descargará.
+El archivo 'BlueTit.mp3' ya existe, no se descargará.
+El archivo 'Bluethroat.jpg' ya existe, no se descargará.
+El archivo 'Bluethroat.mp3' ya existe, no se descargará.
+El archivo 'Brambling.jpg' ya existe, no se descargará.
+El archivo 'Brambling.mp3' ya existe, no se descargará.
+El archivo 'BrentGoose.jpg' ya existe, no se descargará.
+El archivo 'BrentGoose.mp3' ya existe, no se descargará.
+El archivo 'Bullfinch.jpg' ya existe, no se descargará.
+El archivo 'Bullfinch.mp3' ya existe, no se descargará.
+El archivo 'Buzzard.jpg' ya existe, no se descargará.
+El archivo 'Buzzard.mp3' ya existe, no se descargará.
+El archivo 'CanadaGoose.jpg' ya existe, no se descargará.
+El archivo 'CanadaGoose.mp3' ya existe, no se descargará.
+El archivo 'Capercaillie.jpg' ya existe, no se descargará.
+El archivo 'Capercaillie.mp3' ya existe, no se descargará.
+El archivo 'CarrionCrow.jpg' ya existe, no se descargará.
+El archivo 'CarrionCrow.mp3' ya existe, no se descargará.
+El archivo 'CattleEgret.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'CettisWarbler.jpg' ya existe, no se descargará.
+El archivo 'CettisWarbler.mp3' ya existe, no se descargará.
+El archivo 'Chaffinch.jpg' ya existe, no se descargará.
+El archivo 'Chaffinch.mp3' ya existe, no se descargará.
+El archivo 'Chiffchaff.jpg' ya existe, no se descargará.
+El archivo 'Chiffchaff.mp3' ya existe, no se descargará.
+El archivo 'Chough.jpg' ya existe, no se descargará.
+El archivo 'Chough.mp3' ya existe, no se descargará.
+El archivo 'CirlBunting.jpg' ya existe, no se descargará.
+El archivo 'CirlBunting.mp3' ya existe, no se descargará.
+El archivo 'CoalTit.jpg' ya existe, no se descargará.
+El archivo 'CoalTit.mp3' ya existe, no se descargará.
+El archivo 'CollaredDove.jpg' ya existe, no se descargará.
+El archivo 'CollaredDove.mp3' ya existe, no se descargará.
+El archivo 'CommonGull.jpg' ya existe, no se descargará.
+El archivo 'CommonGull.mp3' ya existe, no se descargará.
+El archivo 'CommonRedpoll.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'CommonRosefinch.jpg' ya existe, no se descargará.
+El archivo 'CommonRosefinch.mp3' ya existe, no se descargará.
+El archivo 'CommonSandpiper.jpg' ya existe, no se descargará.
+El archivo 'CommonSandpiper.mp3' ya existe, no se descargará.
+El archivo 'CommonScoter.jpg' ya existe, no se descargará.
+El archivo 'CommonScoter.mp3' ya existe, no se descargará.
+El archivo 'CommonTern.jpg' ya existe, no se descargará.
+El archivo 'CommonTern.mp3' ya existe, no se descargará.
+El archivo 'Cormorant.jpg' ya existe, no se descargará.
+El archivo 'Cormorant.mp3' ya existe, no se descargará.
+El archivo 'CornBunting.jpg' ya existe, no se descargará.
+El archivo 'CornBunting.mp3' ya existe, no se descargará.
+El archivo 'Corncrake.jpg' ya existe, no se descargará.
+El archivo 'Corncrake.mp3' ya existe, no se descargará.
+El archivo 'Crane.jpg' ya existe, no se descargará.
+El archivo 'Crane.mp3' ya existe, no se descargará.
+El archivo 'CrestedTit.jpg' ya existe, no se descargará.
+El archivo 'CrestedTit.mp3' ya existe, no se descargará.
+El archivo 'Crossbill.jpg' ya existe, no se descargará.
+El archivo 'Crossbill.mp3' ya existe, no se descargará.
+El archivo 'Cuckoo.jpg' ya existe, no se descargará.
+El archivo 'Cuckoo.mp3' ya existe, no se descargará.
+El archivo 'Curlew.jpg' ya existe, no se descargará.
+El archivo 'Curlew.mp3' ya existe, no se descargará.
+El archivo 'CurlewSandpiper.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'DartfordWarbler.jpg' ya existe, no se descargará.
+El archivo 'DartfordWarbler.mp3' ya existe, no se descargará.
+El archivo 'Dipper.jpg' ya existe, no se descargará.
+El archivo 'Dipper.mp3' ya existe, no se descargará.
+El archivo 'Dotterel.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Dunlin.jpg' ya existe, no se descargará.
+El archivo 'Dunlin.mp3' ya existe, no se descargará.
+El archivo 'Dunnock.jpg' ya existe, no se descargará.
+El archivo 'Dunnock.mp3' ya existe, no se descargará.
+El archivo 'EgyptianGoose.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Eider.jpg' ya existe, no se descargará.
+El archivo 'Eider.mp3' ya existe, no se descargará.
+El archivo 'EurasianCoot.jpg' ya existe, no se descargará.
+El archivo 'EurasianCoot.mp3' ya existe, no se descargará.
+El archivo 'Fieldfare.jpg' ya existe, no se descargará.
+El archivo 'Fieldfare.mp3' ya existe, no se descargará.
+El archivo 'Firecrest.jpg' ya existe, no se descargará.
+El archivo 'Firecrest.mp3' ya existe, no se descargará.
+El archivo 'Fulmar.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Gadwall.jpg' ya existe, no se descargará.
+El archivo 'Gadwall.mp3' ya existe, no se descargará.
+El archivo 'Gannet.jpg' ya existe, no se descargará.
+El archivo 'Gannet.mp3' ya existe, no se descargará.
+El archivo 'GardenWarbler.jpg' ya existe, no se descargará.
+El archivo 'GardenWarbler.mp3' ya existe, no se descargará.
+El archivo 'Garganey.jpg' ya existe, no se descargará.
+El archivo 'Garganey.mp3' ya existe, no se descargará.
+El archivo 'GlaucousGull.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Goldcrest.jpg' ya existe, no se descargará.
+El archivo 'Goldcrest.mp3' ya existe, no se descargará.
+El archivo 'GoldenEagle.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'GoldenOriole.jpg' ya existe, no se descargará.
+El archivo 'GoldenOriole.mp3' ya existe, no se descargará.
+El archivo 'GoldenPheasant.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'GoldenPlover.jpg' ya existe, no se descargará.
+El archivo 'GoldenPlover.mp3' ya existe, no se descargará.
+El archivo 'Goldeneye.jpg' ya existe, no se descargará.
+El archivo 'Goldeneye.mp3' ya existe, no se descargará.
+El archivo 'Goldfinch.jpg' ya existe, no se descargará.
+El archivo 'Goldfinch.mp3' ya existe, no se descargará.
+El archivo 'Goosander.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Goshawk.jpg' ya existe, no se descargará.
+El archivo 'Goshawk.mp3' ya existe, no se descargará.
+El archivo 'GrasshopperWarbler.jpg' ya existe, no se descargará.
+El archivo 'GrasshopperWarbler.mp3' ya existe, no se descargará.
+El archivo 'GreatBlackbackedGull.jpg' ya existe, no se descargará.
+El archivo 'GreatBlackbackedGull.mp3' ya existe, no se descargará.
+El archivo 'GreatCrestedGrebe.jpg' ya existe, no se descargará.
+El archivo 'GreatCrestedGrebe.mp3' ya existe, no se descargará.
+El archivo 'GreatGreyShrike.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'GreatNorthernDiver.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'GreatShearwater.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'GreatSkua.jpg' ya existe, no se descargará.
+El archivo 'GreatSkua.mp3' ya existe, no se descargará.
+El archivo 'GreatSpottedWoodpecker.jpg' ya existe, no se descargará.
+El archivo 'GreatSpottedWoodpecker.mp3' ya existe, no se descargará.
+El archivo 'GreatTit.jpg' ya existe, no se descargará.
+El archivo 'GreatTit.mp3' ya existe, no se descargará.
+El archivo 'GreatWhiteEgret.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'GreenSandpiper.jpg' ya existe, no se descargará.
+El archivo 'GreenSandpiper.mp3' ya existe, no se descargará.
+El archivo 'GreenWoodpecker.jpg' ya existe, no se descargará.
+El archivo 'GreenWoodpecker.mp3' ya existe, no se descargará.
+El archivo 'Greenfinch.jpg' ya existe, no se descargará.
+El archivo 'Greenfinch.mp3' ya existe, no se descargará.
+El archivo 'Greenshank.jpg' ya existe, no se descargará.
+El archivo 'Greenshank.mp3' ya existe, no se descargará.
+El archivo 'GreyHeron.jpg' ya existe, no se descargará.
+El archivo 'GreyHeron.mp3' ya existe, no se descargará.
+El archivo 'GreyPartridge.jpg' ya existe, no se descargará.
+El archivo 'GreyPartridge.mp3' ya existe, no se descargará.
+El archivo 'GreyPhalarope.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'GreyPlover.jpg' ya existe, no se descargará.
+El archivo 'GreyPlover.mp3' ya existe, no se descargará.
+El archivo 'GreyWagtail.jpg' ya existe, no se descargará.
+El archivo 'GreyWagtail.mp3' ya existe, no se descargará.
+El archivo 'GreylagGoose.jpg' ya existe, no se descargará.
+El archivo 'GreylagGoose.mp3' ya existe, no se descargará.
+El archivo 'Guillemot.jpg' ya existe, no se descargará.
+El archivo 'Guillemot.mp3' ya existe, no se descargará.
+El archivo 'Hawfinch.jpg' ya existe, no se descargará.
+El archivo 'Hawfinch.mp3' ya existe, no se descargará.
+El archivo 'HenHarrier.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'HerringGull.jpg' ya existe, no se descargará.
+El archivo 'HerringGull.mp3' ya existe, no se descargará.
+El archivo 'Hobby.jpg' ya existe, no se descargará.
+El archivo 'Hobby.mp3' ya existe, no se descargará.
+El archivo 'HoneyBuzzard.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'HoodedCrow.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Hoopoe.jpg' ya existe, no se descargará.
+El archivo 'Hoopoe.mp3' ya existe, no se descargará.
+El archivo 'HouseMartin.jpg' ya existe, no se descargará.
+El archivo 'HouseMartin.mp3' ya existe, no se descargará.
+El archivo 'HouseSparrow.jpg' ya existe, no se descargará.
+El archivo 'HouseSparrow.mp3' ya existe, no se descargará.
+El archivo 'IcelandGull.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'JackSnipe.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Jackdaw.jpg' ya existe, no se descargará.
+El archivo 'Jackdaw.mp3' ya existe, no se descargará.
+El archivo 'Jay.jpg' ya existe, no se descargará.
+El archivo 'Jay.mp3' ya existe, no se descargará.
+El archivo 'Kestrel.jpg' ya existe, no se descargará.
+El archivo 'Kestrel.mp3' ya existe, no se descargará.
+El archivo 'Kingfisher.jpg' ya existe, no se descargará.
+El archivo 'Kingfisher.mp3' ya existe, no se descargará.
+El archivo 'Kittiwake.jpg' ya existe, no se descargará.
+El archivo 'Kittiwake.mp3' ya existe, no se descargará.
+El archivo 'Knot.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'LaplandBunting.jpg' ya existe, no se descargará.
+El archivo 'LaplandBunting.mp3' ya existe, no se descargará.
+El archivo 'Lapwing.jpg' ya existe, no se descargará.
+El archivo 'Lapwing.mp3' ya existe, no se descargará.
+El archivo 'LeachsPetrel.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'LesserBlackbackedGull.jpg' ya existe, no se descargará.
+El archivo 'LesserBlackbackedGull.mp3' ya existe, no se descargará.
+El archivo 'LesserRedpoll.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'LesserSpottedWoodpecker.jpg' ya existe, no se descargará.
+El archivo 'LesserSpottedWoodpecker.mp3' ya existe, no se descargará.
+El archivo 'LesserWhitethroat.jpg' ya existe, no se descargará.
+El archivo 'LesserWhitethroat.mp3' ya existe, no se descargará.
+El archivo 'Linnet.jpg' ya existe, no se descargará.
+El archivo 'Linnet.mp3' ya existe, no se descargará.
+El archivo 'LittleAuk.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'LittleEgret.jpg' ya existe, no se descargará.
+El archivo 'LittleEgret.mp3' ya existe, no se descargará.
+El archivo 'LittleGrebe.jpg' ya existe, no se descargará.
+El archivo 'LittleGrebe.mp3' ya existe, no se descargará.
+El archivo 'LittleGull.jpg' ya existe, no se descargará.
+El archivo 'LittleGull.mp3' ya existe, no se descargará.
+El archivo 'LittleOwl.jpg' ya existe, no se descargará.
+El archivo 'LittleOwl.mp3' ya existe, no se descargará.
+El archivo 'LittleRingedPlover.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'LittleStint.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'LittleTern.jpg' ya existe, no se descargará.
+El archivo 'LittleTern.mp3' ya existe, no se descargará.
+El archivo 'LongearedOwl.jpg' ya existe, no se descargará.
+El archivo 'LongearedOwl.mp3' ya existe, no se descargará.
+El archivo 'LongtailedDuck.jpg' ya existe, no se descargará.
+El archivo 'LongtailedDuck.mp3' ya existe, no se descargará.
+El archivo 'LongtailedSkua.jpg' ya existe, no se descargará.
+El archivo 'LongtailedSkua.mp3' ya existe, no se descargará.
+El archivo 'LongtailedTit.jpg' ya existe, no se descargará.
+El archivo 'LongtailedTit.mp3' ya existe, no se descargará.
+El archivo 'Magpie.jpg' ya existe, no se descargará.
+El archivo 'Magpie.mp3' ya existe, no se descargará.
+El archivo 'Mallard.jpg' ya existe, no se descargará.
+El archivo 'Mallard.mp3' ya existe, no se descargará.
+El archivo 'MandarinDuck.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'ManxShearwater.jpg' ya existe, no se descargará.
+El archivo 'ManxShearwater.mp3' ya existe, no se descargará.
+El archivo 'MarshHarrier.jpg' ya existe, no se descargará.
+El archivo 'MarshHarrier.mp3' ya existe, no se descargará.
+El archivo 'MarshTit.jpg' ya existe, no se descargará.
+El archivo 'MarshTit.mp3' ya existe, no se descargará.
+El archivo 'MarshWarbler.jpg' ya existe, no se descargará.
+El archivo 'MarshWarbler.mp3' ya existe, no se descargará.
+El archivo 'MeadowPipit.jpg' ya existe, no se descargará.
+El archivo 'MeadowPipit.mp3' ya existe, no se descargará.
+El archivo 'MediterraneanGull.jpg' ya existe, no se descargará.
+El archivo 'MediterraneanGull.mp3' ya existe, no se descargará.
+El archivo 'Merlin.jpg' ya existe, no se descargará.
+El archivo 'Merlin.mp3' ya existe, no se descargará.
+El archivo 'MistleThrush.jpg' ya existe, no se descargará.
+El archivo 'MistleThrush.mp3' ya existe, no se descargará.
+El archivo 'MontagusHarrier.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Moorhen.jpg' ya existe, no se descargará.
+El archivo 'Moorhen.mp3' ya existe, no se descargará.
+El archivo 'MuteSwan.jpg' ya existe, no se descargará.
+El archivo 'MuteSwan.mp3' ya existe, no se descargará.
+El archivo 'Nightingale.jpg' ya existe, no se descargará.
+El archivo 'Nightingale.mp3' ya existe, no se descargará.
+El archivo 'Nightjar.jpg' ya existe, no se descargará.
+El archivo 'Nightjar.mp3' ya existe, no se descargará.
+El archivo 'Nuthatch.jpg' ya existe, no se descargará.
+El archivo 'Nuthatch.mp3' ya existe, no se descargará.
+El archivo 'Osprey.jpg' ya existe, no se descargará.
+El archivo 'Osprey.mp3' ya existe, no se descargará.
+El archivo 'Oystercatcher.jpg' ya existe, no se descargará.
+El archivo 'Oystercatcher.mp3' ya existe, no se descargará.
+El archivo 'ParrotCrossbill.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'PectoralSandpiper.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'PeregrineFalcon.jpg' ya existe, no se descargará.
+El archivo 'PeregrineFalcon.mp3' ya existe, no se descargará.
+El archivo 'Pheasant.jpg' ya existe, no se descargará.
+El archivo 'Pheasant.mp3' ya existe, no se descargará.
+El archivo 'PiedFlycatcher.jpg' ya existe, no se descargará.
+El archivo 'PiedFlycatcher.mp3' ya existe, no se descargará.
+El archivo 'PiedWagtail.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'PinkfootedGoose.jpg' ya existe, no se descargará.
+El archivo 'PinkfootedGoose.mp3' ya existe, no se descargará.
+El archivo 'Pintail.jpg' ya existe, no se descargará.
+El archivo 'Pintail.mp3' ya existe, no se descargará.
+El archivo 'Pochard.jpg' ya existe, no se descargará.
+El archivo 'Pochard.mp3' ya existe, no se descargará.
+El archivo 'Ptarmigan.jpg' ya existe, no se descargará.
+El archivo 'Ptarmigan.mp3' ya existe, no se descargará.
+El archivo 'Puffin.jpg' ya existe, no se descargará.
+El archivo 'Puffin.mp3' ya existe, no se descargará.
+El archivo 'PurpleSandpiper.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Quail.jpg' ya existe, no se descargará.
+El archivo 'Quail.mp3' ya existe, no se descargará.
+El archivo 'Raven.jpg' ya existe, no se descargará.
+El archivo 'Raven.mp3' ya existe, no se descargará.
+El archivo 'Razorbill.jpg' ya existe, no se descargará.
+El archivo 'Razorbill.mp3' ya existe, no se descargará.
+El archivo 'RedGrouse.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'RedKite.jpg' ya existe, no se descargará.
+El archivo 'RedKite.mp3' ya existe, no se descargará.
+El archivo 'RedbackedShrike.jpg' ya existe, no se descargará.
+El archivo 'RedbackedShrike.mp3' ya existe, no se descargará.
+El archivo 'RedbreastedMerganser.jpg' ya existe, no se descargará.
+El archivo 'RedbreastedMerganser.mp3' ya existe, no se descargará.
+El archivo 'RedcrestedPochard.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'RedleggedPartridge.jpg' ya existe, no se descargará.
+El archivo 'RedleggedPartridge.mp3' ya existe, no se descargará.
+El archivo 'RedneckedGrebe.jpg' ya existe, no se descargará.
+El archivo 'RedneckedGrebe.mp3' ya existe, no se descargará.
+El archivo 'RedneckedPhalarope.jpg' ya existe, no se descargará.
+El archivo 'RedneckedPhalarope.mp3' ya existe, no se descargará.
+El archivo 'RedthroatedDiver.jpg' ya existe, no se descargará.
+El archivo 'RedthroatedDiver.mp3' ya existe, no se descargará.
+El archivo 'Redshank.jpg' ya existe, no se descargará.
+El archivo 'Redshank.mp3' ya existe, no se descargará.
+El archivo 'Redstart.jpg' ya existe, no se descargará.
+El archivo 'Redstart.mp3' ya existe, no se descargará.
+El archivo 'Redwing.jpg' ya existe, no se descargará.
+El archivo 'Redwing.mp3' ya existe, no se descargará.
+El archivo 'ReedBunting.jpg' ya existe, no se descargará.
+El archivo 'ReedBunting.mp3' ya existe, no se descargará.
+El archivo 'ReedWarbler.jpg' ya existe, no se descargará.
+El archivo 'ReedWarbler.mp3' ya existe, no se descargará.
+El archivo 'RingOuzel.jpg' ya existe, no se descargará.
+El archivo 'RingOuzel.mp3' ya existe, no se descargará.
+El archivo 'RingneckedParakeet.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'RingedPlover.jpg' ya existe, no se descargará.
+El archivo 'RingedPlover.mp3' ya existe, no se descargará.
+El archivo 'Robin.jpg' ya existe, no se descargará.
+El archivo 'Robin.mp3' ya existe, no se descargará.
+El archivo 'RockDoveFeralPigeon.jpg' ya existe, no se descargará.
+El archivo 'RockDoveFeralPigeon.mp3' ya existe, no se descargará.
+El archivo 'RockPipit.jpg' ya existe, no se descargará.
+El archivo 'RockPipit.mp3' ya existe, no se descargará.
+El archivo 'Rook.jpg' ya existe, no se descargará.
+El archivo 'Rook.mp3' ya existe, no se descargará.
+El archivo 'RoseateTern.jpg' ya existe, no se descargará.
+El archivo 'RoseateTern.mp3' ya existe, no se descargará.
+El archivo 'RoughleggedBuzzard.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'RuddyDuck.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Ruff.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'SandMartin.jpg' ya existe, no se descargará.
+El archivo 'SandMartin.mp3' ya existe, no se descargará.
+El archivo 'Sanderling.jpg' ya existe, no se descargará.
+El archivo 'Sanderling.mp3' ya existe, no se descargará.
+El archivo 'SandwichTern.jpg' ya existe, no se descargará.
+El archivo 'SandwichTern.mp3' ya existe, no se descargará.
+El archivo 'SavisWarbler.jpg' ya existe, no se descargará.
+El archivo 'SavisWarbler.mp3' ya existe, no se descargará.
+El archivo 'Scaup.jpg' ya existe, no se descargará.
+El archivo 'Scaup.mp3' ya existe, no se descargará.
+El archivo 'ScottishCrossbill.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'SedgeWarbler.jpg' ya existe, no se descargará.
+El archivo 'SedgeWarbler.mp3' ya existe, no se descargará.
+El archivo 'Serin.jpg' ya existe, no se descargará.
+El archivo 'Serin.mp3' ya existe, no se descargará.
+El archivo 'Shag.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Shelduck.jpg' ya existe, no se descargará.
+El archivo 'Shelduck.mp3' ya existe, no se descargará.
+El archivo 'ShoreLark.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'ShortearedOwl.jpg' ya existe, no se descargará.
+El archivo 'ShortearedOwl.mp3' ya existe, no se descargará.
+El archivo 'Shoveler.jpg' ya existe, no se descargará.
+El archivo 'Shoveler.mp3' ya existe, no se descargará.
+El archivo 'Siskin.jpg' ya existe, no se descargará.
+El archivo 'Siskin.mp3' ya existe, no se descargará.
+El archivo 'Skylark.jpg' ya existe, no se descargará.
+El archivo 'Skylark.mp3' ya existe, no se descargará.
+Grupo no disponible
+No se encontro archivo imagen
+No se encontro archivo de canto
+No se encontro datos
+El archivo 'Smew.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Snipe.jpg' ya existe, no se descargará.
+El archivo 'Snipe.mp3' ya existe, no se descargará.
+El archivo 'SnowBunting.jpg' ya existe, no se descargará.
+El archivo 'SnowBunting.mp3' ya existe, no se descargará.
+El archivo 'SnowGoose.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'SongThrush.jpg' ya existe, no se descargará.
+El archivo 'SongThrush.mp3' ya existe, no se descargará.
+El archivo 'SootyShearwater.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Sparrowhawk.jpg' ya existe, no se descargará.
+El archivo 'Sparrowhawk.mp3' ya existe, no se descargará.
+El archivo 'Spoonbill.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'SpottedCrake.jpg' ya existe, no se descargará.
+El archivo 'SpottedCrake.mp3' ya existe, no se descargará.
+El archivo 'SpottedFlycatcher.jpg' ya existe, no se descargará.
+El archivo 'SpottedFlycatcher.mp3' ya existe, no se descargará.
+El archivo 'SpottedRedshank.jpg' ya existe, no se descargará.
+El archivo 'SpottedRedshank.mp3' ya existe, no se descargará.
+El archivo 'Starling.jpg' ya existe, no se descargará.
+El archivo 'Starling.mp3' ya existe, no se descargará.
+El archivo 'StockDove.jpg' ya existe, no se descargará.
+El archivo 'StockDove.mp3' ya existe, no se descargará.
+El archivo 'Stonecurlew.jpg' ya existe, no se descargará.
+El archivo 'Stonecurlew.mp3' ya existe, no se descargará.
+El archivo 'Stonechat.jpg' ya existe, no se descargará.
+El archivo 'Stonechat.mp3' ya existe, no se descargará.
+El archivo 'StormPetrel.jpg' ya existe, no se descargará.
+El archivo 'StormPetrel.mp3' ya existe, no se descargará.
+El archivo 'Swallow.jpg' ya existe, no se descargará.
+El archivo 'Swallow.mp3' ya existe, no se descargará.
+El archivo 'Swift.jpg' ya existe, no se descargará.
+El archivo 'Swift.mp3' ya existe, no se descargará.
+El archivo 'TaigaBeanGoose.jpg' ya existe, no se descargará.
+El archivo 'TaigaBeanGoose.mp3' ya existe, no se descargará.
+El archivo 'TawnyOwl.jpg' ya existe, no se descargará.
+El archivo 'TawnyOwl.mp3' ya existe, no se descargará.
+El archivo 'Teal.jpg' ya existe, no se descargará.
+El archivo 'Teal.mp3' ya existe, no se descargará.
+El archivo 'TemmincksStint.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'TreePipit.jpg' ya existe, no se descargará.
+El archivo 'TreePipit.mp3' ya existe, no se descargará.
+El archivo 'TreeSparrow.jpg' ya existe, no se descargará.
+El archivo 'TreeSparrow.mp3' ya existe, no se descargará.
+El archivo 'Treecreeper.jpg' ya existe, no se descargará.
+El archivo 'Treecreeper.mp3' ya existe, no se descargará.
+El archivo 'TuftedDuck.jpg' ya existe, no se descargará.
+El archivo 'TuftedDuck.mp3' ya existe, no se descargará.
+El archivo 'TundraBeanGoose.jpg' ya existe, no se descargará.
+El archivo 'TundraBeanGoose.mp3' ya existe, no se descargará.
+El archivo 'Turnstone.jpg' ya existe, no se descargará.
+El archivo 'Turnstone.mp3' ya existe, no se descargará.
+El archivo 'TurtleDove.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Twite.jpg' ya existe, no se descargará.
+El archivo 'Twite.mp3' ya existe, no se descargará.
+El archivo 'VelvetScoter.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'WaterPipit.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'WaterRail.jpg' ya existe, no se descargará.
+El archivo 'WaterRail.mp3' ya existe, no se descargará.
+El archivo 'Waxwing.jpg' ya existe, no se descargará.
+El archivo 'Waxwing.mp3' ya existe, no se descargará.
+El archivo 'Wheatear.jpg' ya existe, no se descargará.
+El archivo 'Wheatear.mp3' ya existe, no se descargará.
+El archivo 'Whimbrel.jpg' ya existe, no se descargará.
+El archivo 'Whimbrel.mp3' ya existe, no se descargará.
+El archivo 'Whinchat.jpg' ya existe, no se descargará.
+El archivo 'Whinchat.mp3' ya existe, no se descargará.
+El archivo 'WhitefrontedGoose.jpg' ya existe, no se descargará.
+El archivo 'WhitefrontedGoose.mp3' ya existe, no se descargará.
+El archivo 'WhitetailedEagle.jpg' ya existe, no se descargará.
+El archivo 'WhitetailedEagle.mp3' ya existe, no se descargará.
+El archivo 'Whitethroat.jpg' ya existe, no se descargará.
+El archivo 'Whitethroat.mp3' ya existe, no se descargará.
+El archivo 'WhooperSwan.jpg' ya existe, no se descargará.
+El archivo 'WhooperSwan.mp3' ya existe, no se descargará.
+El archivo 'Wigeon.jpg' ya existe, no se descargará.
+El archivo 'Wigeon.mp3' ya existe, no se descargará.
+El archivo 'WillowTit.jpg' ya existe, no se descargará.
+El archivo 'WillowTit.mp3' ya existe, no se descargará.
+El archivo 'WillowWarbler.jpg' ya existe, no se descargará.
+El archivo 'WillowWarbler.mp3' ya existe, no se descargará.
+El archivo 'WoodSandpiper.jpg' ya existe, no se descargará.
+El archivo 'WoodSandpiper.mp3' ya existe, no se descargará.
+El archivo 'WoodWarbler.jpg' ya existe, no se descargará.
+El archivo 'WoodWarbler.mp3' ya existe, no se descargará.
+El archivo 'Woodcock.jpg' ya existe, no se descargará.
+El archivo 'Woodcock.mp3' ya existe, no se descargará.
+El archivo 'Woodlark.jpg' ya existe, no se descargará.
+El archivo 'Woodlark.mp3' ya existe, no se descargará.
+El archivo 'Woodpigeon.jpg' ya existe, no se descargará.
+El archivo 'Woodpigeon.mp3' ya existe, no se descargará.
+El archivo 'Wren.jpg' ya existe, no se descargará.
+El archivo 'Wren.mp3' ya existe, no se descargará.
+El archivo 'Wryneck.jpg' ya existe, no se descargará.
+El archivo 'Wryneck.mp3' ya existe, no se descargará.
+El archivo 'YellowWagtail.jpg' ya existe, no se descargará.
+El archivo 'YellowWagtail.mp3' ya existe, no se descargará.
+El archivo 'YellowbrowedWarbler.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'YellowleggedGull.jpg' ya existe, no se descargará.
+No se encontro archivo de canto
+El archivo 'Yellowhammer.jpg' ya existe, no se descargará.
+El archivo 'Yellowhammer.mp3' ya existe, no se descargará.
+Conexión exitosa con la base de datos
+Traceback (most recent call last):
+  File "/home/fernando/DAW 2/MP08 - PHP/wselenium/DescargarPajaroV6.py", line 326, in <module>
+    scrape_with_selenium(cnn_url)
+  File "/home/fernando/DAW 2/MP08 - PHP/wselenium/DescargarPajaroV6.py", line 284, in scrape_with_selenium
+    bird_data_b['habitats']
+    ~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'habitats'

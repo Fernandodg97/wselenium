@@ -1,0 +1,13 @@
+-- Eliminar registros si es necesario
+DELETE FROM Avistamientos;
+DELETE FROM Datos;
+DELETE FROM Lugares;
+DELETE FROM Pajaro;
+DELETE FROM Users;
+
+-- Restablecer AUTO_INCREMENT a 1
+ALTER TABLE Avistamientos AUTO_INCREMENT = 1;
+ALTER TABLE Datos AUTO_INCREMENT = 1;
+ALTER TABLE Lugares AUTO_INCREMENT = 1;
+ALTER TABLE Pajaro AUTO_INCREMENT = 1;
+ALTER TABLE Users AUTO_INCREMENT = 1;
