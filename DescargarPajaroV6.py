@@ -155,7 +155,7 @@ def scrape_with_selenium(url):
             descargar_archivo(foto_url, nombre_archivo_jpg)
         else:
             print("No se encontro archivo imagen")
-        
+            bird_data['foto_url'] = "/images/nullo"
 
         # Extraer y guardar la identificación del pájaro
         ideP = driver.find_elements(By.CSS_SELECTOR, 'span[_ngcontent-rspb-frontend-app-c287].intro')
@@ -164,9 +164,6 @@ def scrape_with_selenium(url):
         else:
             bird_data['identificacion'] = "No se encontro identificacion"
             print("No se encontro identificacion")
-
-        # Inicializar la clave 'canto_url' con un valor predeterminado
-        bird_data['canto_url'] = "audioNoExiste"
 
         # Extraer y guardar el enlace del canto del pájaro
         try:
@@ -177,29 +174,52 @@ def scrape_with_selenium(url):
             descargar_archivo(canto_url + "/download", nombre_archivo_mp3)
         except Exception as e:
             print("No se encontro archivo de canto")
+            bird_data['canto_url'] = "/audio/nullo"
 
-        # Extraer y guardar el estado_conservacion del pájaro
-        datos = driver.find_elements(By.CSS_SELECTOR, 'span[_ngcontent-rspb-frontend-app-c286].value')
-        if datos:
-             # Solo asignar los valores si existen
-            if len(datos) > 0:
-                bird_data_b['estado_conservacion'] = datos[0].text if datos[0].text else None
-            if len(datos) > 1:
-                bird_data_b['dieta'] = datos[1].text if datos[1].text else None
-            if len(datos) > 2:
-                bird_data_b['poblacion_europea'] = datos[2].text if datos[2].text else None
-            if len(datos) > 3:
-                bird_data_b['pluma'] = datos[3].text if datos[3].text else None
-            if len(datos) > 4:
-                bird_data_b['longitud'] = datos[4].text if datos[4].text else None
-            if len(datos) > 5:
-                bird_data_b['peso'] = datos[5].text if datos[5].text else None
-            if len(datos) > 6:
-                bird_data_b['envergadura'] = datos[6].text if datos[6].text else None
-            if len(datos) > 7:
-                bird_data_b['habitats'] = datos[7].text if datos[7].text else None
+        # Extraer y guardar los datos secundarios del pájaro
+        datos_key = driver.find_elements(By.CSS_SELECTOR, 'span[_ngcontent-rspb-frontend-app-c286].key')
+        datos_valor = driver.find_elements(By.CSS_SELECTOR, 'span[_ngcontent-rspb-frontend-app-c286].value')
+
+        # Verificar si se encontraron datos
+        if datos_key and datos_valor:
+            # Crear un diccionario para almacenar todas las claves y valores
+            bird_data_extraccion = {}
+
+            # Iterar sobre las claves y valores
+            for i in range(len(datos_key)):
+                key = datos_key[i].text.strip()  # Obtener la clave y eliminar espacios en blanco
+                value = datos_valor[i].text.strip() if i < len(datos_valor) else "Nulo"  # Obtener el valor o "Nulo" si no existe
+                bird_data_extraccion[key] = value  # Asignar la clave y el valor al diccionario
+
+            # Si hay más valores que claves, asignar "Nulo" a las claves faltantes
+            if len(datos_valor) > len(datos_key):
+                for i in range(len(datos_key), len(datos_valor)):
+                    key = f"extra_key_{i}"  # Crear una clave genérica para valores adicionales
+                    value = datos_valor[i].text.strip() if datos_valor[i].text else "Nulo"
+                    bird_data_extraccion[key] = value
         else:
-            print("No se encontro datos")
+            print("No se encontraron datos en la página.")
+            bird_data_extraccion = {}  # Inicializar un diccionario vacío si no hay datos
+
+        #print(bird_data_extraccion)
+        # Lista de claves que deseas extraer de bird_data_extraccion
+        keys_to_extract = {
+            'estado_conservacion': 'Conservation status',
+            'dieta': 'Diet',
+            'poblacion_europea': 'European population',
+            'pluma': 'Feather',
+            'longitud': 'Length',
+            'peso': 'Weight',
+            'envergadura': 'Wingspan',
+            'habitats': 'Habitats'
+        }
+
+        # Recorrer keys_to_extract para asignar los valores
+        for key_b, key_e in keys_to_extract.items():
+            if key_e in bird_data_extraccion:
+                bird_data_b[key_b] = bird_data_extraccion[key_e]
+            else:
+                bird_data_b[key_b] = "Nulo"  # Asignar "Nulo" si la clave no existe
 
         # Extraer y guardar lugares de observación del pájaro
 
